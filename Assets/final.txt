@@ -1,0 +1,150 @@
+0
+Resimdeki sanatçı kimdir?
+kemal sunal
+1
+Resimdeki müzik aletinin adı nedir?
+gramofon
+2
+Resimdeki meyvenin adı nedir?
+avokado
+3
+Resimdeki arabanın markası nedir?
+toyota
+4
+Bu bayrak hangi Türk devletine aittir?
+göktürk
+5
+Resimdeki kebabın adı nedir?
+beyti
+6
+Resimdeki futbolcunun kimdir?
+selçuk inan
+7
+Resimdeki eşyanın adı nedir?
+rüzgar çanı
+8
+Resimdeki bayrak hangi süper lig futbol kulübüne aittir?
+alanya spor
+9
+Resimdeki bayrak hangi ülkenindir?
+japonya
+10
+Resimdeki tarihi yapının adı nedir?
+ayasofya
+11
+Resimdeki yakın dövüş silahının adı nedir?
+katana
+12
+Resimdeki süper kahraman kimdir?
+örümcek adam
+13
+Resimdeki tatlının adı nedir?
+revani
+14
+Resimdeki bilgisayar bileşeninin adı nedir?
+ram
+15
+Resimdeki Türk yapımı savunma sanayi ürününün adı nedir?
+bayraktar
+16
+Resimdeki bayrak hangi ülkeye aittir?
+fransa
+17
+Resimdeki tarihi yapının adı nedir?
+kız kulesi
+18
+Resimdeki İspanyol kulübün adı nedir?
+sevilla
+19
+Resimdeki aracın markası nedir?
+skoda
+20
+Resimdeki meyvenin adı nedir?
+trabzon hurması
+21
+Resimdeki hayvanın cinsi nedir?
+van kedisi
+22
+Resimdeki yemeğin adı nedir?
+içli köfte
+23
+Resimdeki tarihi yapının adı nedir?
+pisa kulesi
+24
+Resimdeki hayvanın adı nedir?
+sırtlan
+25
+Resimdeki oyunun adı nedir?
+masa tenisi
+26
+Resimdeki aletin adı nedir?
+dikiş makinesi
+27
+Resimdeki nesne neyin sembolüdür?
+bitcoin
+28
+Resimdeki oyunun adı nedir?
+tavla
+29
+Resimdeki yemeğin adı nedir?
+karnıyarık
+30
+Resimdeki köpeğin cinsi nedir?
+kangal
+31
+Resimdeki eşyanın adı nedir?
+cezve
+32
+Resimdeki müzik aletinin adı nedir?
+klarnet
+33
+Resimdeki tatlının adı nedir?
+macun
+34
+Resimdeki aletin adı nedir?
+robot süpürge
+35
+Resimdeki sebzenin adı nedir?
+pancar
+36
+Resimdeki bayrak hangi ülkeye aittir?
+tunus
+37
+Resimdeki tarihi yapının adı nedir?
+çin seddi
+38
+Resimdeki tatlının adı nedir?
+makaron
+39
+Resimdeki efsanevi yaratığın adı nedir?
+ejderha
+40
+Resimdeki para biriminin adı nedir?
+yen
+41
+Resimdeki çiçeğin adı nedir?
+zambak
+42
+Resimdeki savunma silahının adı nedir?
+mancınık
+43
+Resimdeki eşyanın adı nedir?
+kaset
+44
+Resimdeki hayvanın adı nedir?
+koala
+45
+Resimdeki yemeğin adı nedir?
+bazlama
+46
+Resimdeki oyunun adı nedir?
+minecraft
+47
+Resimdeki oyuncağın adı nedir?
+yoyo
+48
+Resimdeki bayrak hangi ülkeye aittir?
+meksika
+49
+Resimdeki müzik aletinin adı nedir?
+piyano
