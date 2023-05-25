@@ -34,10 +34,4 @@ public class butonolaymenu : MonoBehaviour
         nasiloynanir.SetActive(false);
         geridon.SetActive(false);
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
