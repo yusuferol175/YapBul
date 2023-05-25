@@ -48,16 +48,16 @@ public class final_master_sc : MonoBehaviour
         
         if (verilen_cevap == final_cevap_bosluksuz)
         {
-            Debug.Log("500k kazandýn!");
+            Debug.Log("500k kazandÃ½n!");
             kazan_panel.SetActive(true);
-            kazanma_odul_text.text = "Ödül parasý: " + (master.odulparasi + buyukodul).ToString() + " TL";
+            kazanma_odul_text.text = "Ã–dÃ¼l parasÃ½: " + (master.odulparasi + buyukodul).ToString() + " TL";
         }
         else
         {
             kaybet_panel.SetActive(true);
             master.odulparasi -= 3000;
             final_normal_odul_text.text = master.odulparasi.ToString();
-            final_eksi_text.text = "Ödül parasý: " + (master.odulparasi).ToString() + " TL";
+            final_eksi_text.text = "Ã–dÃ¼l parasÃ½: " + (master.odulparasi).ToString() + " TL";
             Debug.Log("-3000 para gitti!");
             if (master.odulparasi == 0)
             {
@@ -139,12 +139,6 @@ public class final_master_sc : MonoBehaviour
         final_cevap = sorular_final[soru_final_id + 2];
         final_cevap_bosluksuz = final_cevap.TrimEnd();
         PlayerPrefs.SetInt("soru_f_id", soru_final_id + 3);
-        
-    }
-
-   
-    void Update()
-    {
         
     }
 }
