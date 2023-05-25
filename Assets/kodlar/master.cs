@@ -62,18 +62,6 @@ public class master : MonoBehaviour
 
     void soru_ekle(int ilk,int son)
     {
-        //B:
-        // soruid = Random.Range(0,109);
-        // foreach (var item in soruidlist)
-        // {
-        //     if (soruid==item)
-        //     {
-        //         goto B;
-        //     }
-        // }
-        // soruidlist.Add(soruid);
-
-        
         if (PlayerPrefs.GetInt("soru_id") == 268)
         {
             PlayerPrefs.SetInt("soru_id", 0);
@@ -160,18 +148,18 @@ public class master : MonoBehaviour
         int telrast = Random.Range(1, 4);
         if (telrast == 1)
         {
-            bilgi_text.text = "+Maalesef, cevabı bilmiyorum.";
+            bilgi_text.text = "+Maalesef, cevabÃ½ bilmiyorum.";
         }
         else if (telrast == 2)
         {
-            bilgi_text.text = "+Cevabı biliyorum, cevap: "+ cevap;
+            bilgi_text.text = "+CevabÃ½ biliyorum, cevap: "+ cevap;
         }
         else if (telrast == 3)
         {
             int bilemem = Random.Range(1, 3);
             if (bilemem == 1)
             {
-                bilgi_text.text = "+Emin değilim, ama: "+cevap+" olabilir.";
+                bilgi_text.text = "+Emin deÃ°ilim, ama: "+cevap+" olabilir.";
             }
             else if (bilemem == 2)
             {
@@ -179,7 +167,7 @@ public class master : MonoBehaviour
                 {
                     if (bt.name!=cevap)
                     {
-                        bilgi_text.text = "+Emin değilim, ama: " + bt.name + " olabilir.";
+                        bilgi_text.text = "+Emin deÃ°ilim, ama: " + bt.name + " olabilir.";
 
                         break;
                     }
@@ -325,12 +313,12 @@ public class master : MonoBehaviour
         {
             if (birinci_hak!=true)
             {
-                int ynls_id = PlayerPrefs.GetInt("yanlıs_id")+1;
-                PlayerPrefs.SetInt("yanlıs_id", ynls_id);
-                if (PlayerPrefs.GetInt("yanlıs_id")==3)
+                int ynls_id = PlayerPrefs.GetInt("yanlÃ½s_id")+1;
+                PlayerPrefs.SetInt("yanlÃ½s_id", ynls_id);
+                if (PlayerPrefs.GetInt("yanlÃ½s_id")==3)
                 {
                     gecis_reklam_sc.gecis_obje.GetComponent<gecis_reklam_sc>().gecis_ad();
-                    PlayerPrefs.SetInt("yanlıs_id", 0);
+                    PlayerPrefs.SetInt("yanlÃ½s_id", 0);
                 }
                 
                 PlayerPrefs.SetInt("gecis_ad_durum", 1);
